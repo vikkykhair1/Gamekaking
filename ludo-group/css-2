@@ -1,0 +1,6 @@
+﻿@font-face {
+  font-family: 'Indie Flower';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/indieflower/v21/m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf) format('truetype');
+}

@@ -1,0 +1,736 @@
+Uri: https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80/fetchdata16/images/cf/6d/70/cf6d70aed5b631d3206c50849560c3cef2aae837e5ef4b8e38b7d77ef8bbfc87.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\cmd\resize\400x400_80\fetchdata16\images\cf\6d\70\cf6d70aed5b631d3206c50849560c3cef2aae837e5ef4b8e38b7d77ef8bbfc87.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Indie+Flower
+File Name: C:\Downloaded Web Sites\ludoking.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,700,600,500,300
+File Name: C:\Downloaded Web Sites\ludoking.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/indieflower/v21/m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\s\indieflower\v21\m8JVjfNVeKWVnh3QMuKkFcZVaUuC.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\s\poppins\v21\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://i.gadgets360cdn.com/large/apple_app_store_awards_2021_image_gadgets_360_1638444140883.jpeg?downsize=950:*
+File Name: C:\Downloaded Web Sites\ludoking.com\large\apple_app_store_awards_2021_image_gadgets_360_1638444140883.jpeg
+Content Type: image/jpeg
+
+Uri: https://i.gadgets360cdn.com/large/Ludo_king_1610107244027.jpg?downsize=950:*&output-quality=80
+File Name: C:\Downloaded Web Sites\ludoking.com\large\Ludo_king_1610107244027.jpg
+Content Type: image/jpeg
+
+Uri: https://images.hindustantimes.com/tech/img/2021/01/09/960x540/Ludo_king_1610107244027_1610193582622_1610193591119.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\tech\img\2021\01\09\960x540\Ludo_king_1610107244027_1610193582622_1610193591119.jpg
+Content Type: image/jpeg
+
+Uri: https://images.livemint.com/img/2021/01/08/600x338/bond-kX6G--621x414@LiveMint_1610112317478.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\img\2021\01\08\600x338\bond-kX6G--621x414@LiveMint_1610112317478.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/
+File Name: C:\Downloaded Web Sites\ludoking.com\index.htm
+Content Type: text/html
+
+Uri: https://ludoking.com/advertise-with-us.html
+File Name: C:\Downloaded Web Sites\ludoking.com\advertise-with-us.html
+Content Type: text/html
+
+Uri: https://ludoking.com/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ludoking.com/bootstrap/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ludoking.com/bootstrap/fonts/glyphicons-halflings-regular.eot@
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\fonts\glyphicons-halflings-regular.eot@
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bootstrap/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://ludoking.com/bootstrap/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bootstrap/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://ludoking.com/bootstrap/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://ludoking.com/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/bower_components/flexslider/flexslider.css
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\flexslider\flexslider.css
+Content Type: text/css
+
+Uri: https://ludoking.com/bower_components/flexslider/fonts/flexslider-icon.eot
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\flexslider\fonts\flexslider-icon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ludoking.com/bower_components/flexslider/fonts/flexslider-icon.eot@
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\flexslider\fonts\flexslider-icon.eot@
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/flexslider/fonts/flexslider-icon.svg
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\flexslider\fonts\flexslider-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://ludoking.com/bower_components/flexslider/fonts/flexslider-icon.ttf
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\flexslider\fonts\flexslider-icon.ttf
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/flexslider/fonts/flexslider-icon.woff
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\flexslider\fonts\flexslider-icon.woff
+Content Type: font/woff
+
+Uri: https://ludoking.com/bower_components/flexslider/jquery.flexslider-min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\flexslider\jquery.flexslider-min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/bower_components/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://ludoking.com/bower_components/font-awesome/fonts/fontawesome-webfont.eot@
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\font-awesome\fonts\fontawesome-webfont.eot@
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/font-awesome/fonts/fontawesome-webfont.eot@v=4.5.0
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\font-awesome\fonts\fontawesome-webfont.eot@v=4.5.0
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/font-awesome/fonts/fontawesome-webfont.svg@v=4.5.0
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\font-awesome\fonts\fontawesome-webfont.svg@v=4.5.0
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/font-awesome/fonts/fontawesome-webfont.ttf@v=4.5.0
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\font-awesome\fonts\fontawesome-webfont.ttf@v=4.5.0
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/font-awesome/fonts/fontawesome-webfont.woff2@v=4.5.0
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\font-awesome\fonts\fontawesome-webfont.woff2@v=4.5.0
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/font-awesome/fonts/fontawesome-webfont.woff@v=4.5.0
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\font-awesome\fonts\fontawesome-webfont.woff@v=4.5.0
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/bower_components/jquery/dist/jquery.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\jquery\dist\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/bower_components/wow/dist/wow.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\bower_components\wow\dist\wow.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://ludoking.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://ludoking.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\ludoking.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://ludoking.com/css/animate.css
+File Name: C:\Downloaded Web Sites\ludoking.com\css\animate.css
+Content Type: text/css
+
+Uri: https://ludoking.com/css/style.css
+File Name: C:\Downloaded Web Sites\ludoking.com\css\style.css
+Content Type: text/css
+
+Uri: https://ludoking.com/css/style2.css?c=3
+File Name: C:\Downloaded Web Sites\ludoking.com\css\style2.css
+Content Type: text/css
+
+Uri: https://ludoking.com/faq.html
+File Name: C:\Downloaded Web Sites\ludoking.com\faq.html
+Content Type: text/html
+
+Uri: https://ludoking.com/images/aceimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\aceimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/Android_App_Store_200x60.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\Android_App_Store_200x60.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/beebomimage.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\beebomimage.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/bgrimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\bgrimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/bhlimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\bhlimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/businessemail.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\businessemail.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/cnet.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\cnet.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/cnetimage.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\cnetimage.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/CTA2.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\CTA2.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/cyimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\cyimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/dbimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\dbimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/dnaindia-top-5-apps-of-the-week-ludo-king.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\dnaindia-top-5-apps-of-the-week-ludo-king.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/downl.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\downl.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/ecoimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\ecoimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/faq1.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\faq1.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/favicon.ico
+File Name: C:\Downloaded Web Sites\ludoking.com\images\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ludoking.com/images/fb-button.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\fb-button.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/financialexpress-mumbai-suburban-train.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\financialexpress-mumbai-suburban-train.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/freepressjournal-action-replay-5-reasons.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\freepressjournal-action-replay-5-reasons.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/gizbimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\gizbimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/histo.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\histo.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/ht-the-growing-craze-for-online-ludo.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\ht-the-growing-craze-for-online-ludo.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/ieimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\ieimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/incimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\incimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/indianexpress-now-playing-at-a-mobile-phone.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\indianexpress-now-playing-at-a-mobile-phone.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/iOS_App_Store_200x60.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\iOS_App_Store_200x60.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/iphone-holder.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\iphone-holder.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/jagimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\jagimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/left3.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\left3.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/lifehacker-i-am-vikash-jaiswal-creator-of-ludo-king.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\lifehacker-i-am-vikash-jaiswal-creator-of-ludo-king.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/lk234.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\lk234.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/lklogo.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\lklogo.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/lkmobile2.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\lkmobile2.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/lkpnimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\lkpnimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/logo.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\logo.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/ludo-themes.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\ludo-themes.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/casereads1.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\casereads1.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/cnbc1.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\cnbc1.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/et-startup-awards.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\et-startup-awards.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/hdfc.jfif
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\hdfc.jfif
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/images/media/imgpsh_fullsize_anim.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\imgpsh_fullsize_anim.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/media_5.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\media_5.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/mensxp.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\mensxp.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/News_18_India.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\News_18_India.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/quint-696x375.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\quint-696x375.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/media/sportswishkey.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\sportswishkey.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/media/the-hindu.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\the-hindu.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/media/toi.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\toi.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/media/Your Story image.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\media\Your Story image.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/medium.com-why-is-ludo-king-becoming-the-next-sensational-thing.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\medium.com-why-is-ludo-king-becoming-the-next-sensational-thing.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/mobile/20211115_125532.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\mobile\20211115_125532.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/mobile/20211115_125611.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\mobile\20211115_125611.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/mobile/20211115_125630.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\mobile\20211115_125630.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/mobile/mobile_02.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\mobile\mobile_02.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/mobile/mobile_03.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\mobile\mobile_03.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/mon43.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\mon43.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/newhua.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\newhua.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/pc-tablet-top-5-free-android-games-play.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\pc-tablet-top-5-free-android-games-play.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/pcqimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\pcqimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/pcquestimage.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\pcquestimage.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/pgbimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\pgbimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/pocketgamer.biz-interview-how-a-small-indian-studio-got-10-million-daus.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\pocketgamer.biz-interview-how-a-small-indian-studio-got-10-million-daus.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/rng_cert.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\rng_cert.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_011.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_011.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_021.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_021.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_031.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_031.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_041.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_041.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_051.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_051.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_061.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_061.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_071.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_071.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_081.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_081.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_091.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_091.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_101.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_101.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/screens/screen_111.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\screens\screen_111.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/sinfimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\sinfimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/sonusood_tonguetwister_challenge.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\sonusood_tonguetwister_challenge.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/support.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\support.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/tajmaa.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\tajmaa.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/tasimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\tasimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/tbjimage.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\tbjimage.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/tecake.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\tecake.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/thehindu-in-the-big-league.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\thehindu-in-the-big-league.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/thewire-female-game-gender-mobile.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\thewire-female-game-gender-mobile.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/images/women-day.png
+File Name: C:\Downloaded Web Sites\ludoking.com\images\women-day.png
+Content Type: image/png
+
+Uri: https://ludoking.com/images/yourstory-ludo-king-mobile-gaming.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\images\yourstory-ludo-king-mobile-gaming.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/index.html
+File Name: C:\Downloaded Web Sites\ludoking.com\index.html
+Content Type: text/html
+
+Uri: https://ludoking.com/js/custom.js
+File Name: C:\Downloaded Web Sites\ludoking.com\js\custom.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/js/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\js\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/js/jquery.easing.1.3.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\js\jquery.easing.1.3.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/js/jquery.scrollTo.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\js\jquery.scrollTo.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/media.html
+File Name: C:\Downloaded Web Sites\ludoking.com\media.html
+Content Type: text/html
+
+Uri: https://ludoking.com/owl-carousel/AjaxLoader.gif
+File Name: C:\Downloaded Web Sites\ludoking.com\owl-carousel\AjaxLoader.gif
+Content Type: image/gif
+
+Uri: https://ludoking.com/owl-carousel/grabbing.png
+File Name: C:\Downloaded Web Sites\ludoking.com\owl-carousel\grabbing.png
+Content Type: image/png
+
+Uri: https://ludoking.com/owl-carousel/owl.carousel.css
+File Name: C:\Downloaded Web Sites\ludoking.com\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://ludoking.com/owl-carousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\ludoking.com\owl-carousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/owl-carousel/owl.theme.css
+File Name: C:\Downloaded Web Sites\ludoking.com\owl-carousel\owl.theme.css
+Content Type: text/css
+
+Uri: https://ludoking.com/owl-carousel/owl.transitions.css
+File Name: C:\Downloaded Web Sites\ludoking.com\owl-carousel\owl.transitions.css
+Content Type: text/css
+
+Uri: https://ludoking.com/pe-icons/fonts/Pe-icon-7-stroke.eot@
+File Name: C:\Downloaded Web Sites\ludoking.com\pe-icons\fonts\Pe-icon-7-stroke.eot@
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/pe-icons/fonts/Pe-icon-7-stroke.eot@d7yf1v
+File Name: C:\Downloaded Web Sites\ludoking.com\pe-icons\fonts\Pe-icon-7-stroke.eot@d7yf1v
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/pe-icons/fonts/Pe-icon-7-stroke.svg@d7yf1v
+File Name: C:\Downloaded Web Sites\ludoking.com\pe-icons\fonts\Pe-icon-7-stroke.svg@d7yf1v
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/pe-icons/fonts/Pe-icon-7-stroke.ttf@d7yf1v
+File Name: C:\Downloaded Web Sites\ludoking.com\pe-icons\fonts\Pe-icon-7-stroke.ttf@d7yf1v
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/pe-icons/fonts/Pe-icon-7-stroke.woff@d7yf1v
+File Name: C:\Downloaded Web Sites\ludoking.com\pe-icons\fonts\Pe-icon-7-stroke.woff@d7yf1v
+Content Type: application/octet-stream
+
+Uri: https://ludoking.com/pe-icons/Pe-icon-7-stroke.css
+File Name: C:\Downloaded Web Sites\ludoking.com\pe-icons\Pe-icon-7-stroke.css
+Content Type: text/css
+
+Uri: https://ludoking.com/play/
+File Name: C:\Downloaded Web Sites\ludoking.com\play\index.htm
+Content Type: text/html
+
+Uri: https://ludoking.com/play/adsense_wrapper_02.js
+File Name: C:\Downloaded Web Sites\ludoking.com\play\adsense_wrapper_02.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/play/closebut.png
+File Name: C:\Downloaded Web Sites\ludoking.com\play\closebut.png
+Content Type: image/png
+
+Uri: https://ludoking.com/play/favicon.8de18.ico
+File Name: C:\Downloaded Web Sites\ludoking.com\play\favicon.8de18.ico
+Content Type: image/x-icon
+
+Uri: https://ludoking.com/play/main.df8f1.js
+File Name: C:\Downloaded Web Sites\ludoking.com\play\main.df8f1.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/play/popup_bg.png
+File Name: C:\Downloaded Web Sites\ludoking.com\play\popup_bg.png
+Content Type: image/png
+
+Uri: https://ludoking.com/play/splash.03ce1.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\play\splash.03ce1.jpg
+Content Type: image/jpeg
+
+Uri: https://ludoking.com/play/src/settings.31bd1.js
+File Name: C:\Downloaded Web Sites\ludoking.com\play\src\settings.31bd1.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/play/style-mobile.25fc5.css
+File Name: C:\Downloaded Web Sites\ludoking.com\play\style-mobile.25fc5.css
+Content Type: text/css
+
+Uri: https://ludoking.com/rng.html
+File Name: C:\Downloaded Web Sites\ludoking.com\rng.html
+Content Type: text/html
+
+Uri: https://ludoking.com/sonusood_tonguetwister_challenge.html
+File Name: C:\Downloaded Web Sites\ludoking.com\sonusood_tonguetwister_challenge.html
+Content Type: text/html
+
+Uri: https://ludoking.com/video-background/background.css
+File Name: C:\Downloaded Web Sites\ludoking.com\video-background\background.css
+Content Type: text/css
+
+Uri: https://ludoking.com/video-background/background.js
+File Name: C:\Downloaded Web Sites\ludoking.com\video-background\background.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/video-background/core.js
+File Name: C:\Downloaded Web Sites\ludoking.com\video-background\core.js
+Content Type: application/javascript
+
+Uri: https://ludoking.com/video-background/transition.js
+File Name: C:\Downloaded Web Sites\ludoking.com\video-background\transition.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6077337112657365
+File Name: C:\Downloaded Web Sites\ludoking.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://static.abplive.com/wp-content/uploads/sites/2/2018/12/21115831/FamousApps.jpg?impolicy=abp_cdn&imwidth=720
+File Name: C:\Downloaded Web Sites\ludoking.com\wp-content\uploads\sites\2\2018\12\21115831\FamousApps.jpg
+Content Type: image/jpeg
+
+Uri: https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,resizemode-4/47529300.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\thumb\msid-47529300,imgsize-110164,width-400,resizemode-4\47529300.jpg
+Content Type: image/png
+
+Uri: https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/articleimages/2021/01/08/istock-ludo-936745-1610113469.png?itok=_S2IkugL
+File Name: C:\Downloaded Web Sites\ludoking.com\sites\dh\files\styles\article_detail\public\articleimages\2021\01\08\istock-ludo-936745-1610113469.png
+Content Type: 
+
+Uri: https://www.gametion.com/img/banners/Partner_With_US_012.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\img\banners\Partner_With_US_012.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gametion.com/img/logo/gametion_logo_ogi.png
+File Name: C:\Downloaded Web Sites\ludoking.com\img\logo\gametion_logo_ogi.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-XK4JK4Y7VH
+File Name: C:\Downloaded Web Sites\ludoking.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.itechlabs.com/certificates/Gametion/RNG_Certificate_UK_Gametion_04April24.pdf
+File Name: C:\Downloaded Web Sites\ludoking.com\certificates\Gametion\RNG_Certificate_UK_Gametion_04April24.pdf
+Content Type: application/pdf
+
+Uri: https://www.medianews4u.com/wp-content/uploads/2021/01/Ludo-King-announces-the-launch-of-two-new-features-to-enhance-gaming-experiences.jpg
+File Name: C:\Downloaded Web Sites\ludoking.com\wp-content\uploads\2021\01\Ludo-King-announces-the-launch-of-two-new-features-to-enhance-gaming-experiences.jpg
+Content Type: image/jpeg
+
+Uri: https://www.thehindubusinessline.com/info-tech/qoeitn/article33535619.ece/alternates/WIDE_615/Ludo
+File Name: C:\Downloaded Web Sites\ludoking.com\info-tech\qoeitn\article33535619.ece\alternates\WIDE_615\Ludo
+Content Type: image/webp
+
